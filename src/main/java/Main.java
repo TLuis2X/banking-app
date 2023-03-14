@@ -1,8 +1,10 @@
+package main.java;
+
 /**
  * This tests all the bank account classes and ensures all methods are being
  * executed at least once.
  */
-public class Test {
+public class Main {
 
     /**
      * Runs the test.
